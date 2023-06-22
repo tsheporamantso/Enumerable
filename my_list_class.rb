@@ -1,9 +1,13 @@
+require './my_enumarable_module.rb'
+
 class MyList
-    def  initialize (list)
+    include MyEnumerable
+
+    def initialize (*list)
         @list = list 
     end
 
     def each
-        @list.each{&block}
+        @list.each { |item| yield item}
     end
 end
