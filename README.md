@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Enumerable</b></h3>
+  <h2><b>Enumerable</b></h3>
 
 </div>
 
@@ -34,7 +34,7 @@
 
 # 📖 Enumerable <a name="about-project"></a>
 
-**Enumerable** is an app that takes a defined list of characters, strings, numbers or arrays and performs some enumerable functions on them. The methods are defined in a module and used within a class.
+**Enumerable** is an app that takes a defined list of characters, strings, numbers or arrays and performs some enumerable functions on them. The methods are defined in a module and used within a class..
 
 ## 🛠 Built With <a name="built-with"></a>
 
